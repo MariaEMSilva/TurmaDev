@@ -1,0 +1,14 @@
+x = prompt("Qual a cor do semaforo")
+
+if (x == "verde") {
+    alert("Pode passar") 
+} else if (x == "vermelho") {
+    alert("Pare")
+} else { 
+    alert("Atenção")
+}
+
+Na linha 1 o x indica que o prompt, é uma
+caixa de Text.
+Nalinha 3 o if serve para identificar a seleção
+da estrutura, que é x.
